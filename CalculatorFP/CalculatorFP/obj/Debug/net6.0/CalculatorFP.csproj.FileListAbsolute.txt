@@ -1,0 +1,15 @@
+C:\Users\Deratex\source\repos\CalculatorFP\CalculatorFP\obj\Debug\net6.0\CalculatorFP.csproj.AssemblyReference.cache
+C:\Users\Deratex\source\repos\CalculatorFP\CalculatorFP\obj\Debug\net6.0\CalculatorFP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deratex\source\repos\CalculatorFP\CalculatorFP\obj\Debug\net6.0\CalculatorFP.AssemblyInfoInputs.cache
+C:\Users\Deratex\source\repos\CalculatorFP\CalculatorFP\obj\Debug\net6.0\CalculatorFP.AssemblyInfo.cs
+C:\Users\Deratex\source\repos\CalculatorFP\CalculatorFP\obj\Debug\net6.0\CalculatorFP.csproj.CoreCompileInputs.cache
+C:\Users\Deratex\source\repos\CalculatorFP\CalculatorFP\bin\Debug\net6.0\CalculatorFP.exe
+C:\Users\Deratex\source\repos\CalculatorFP\CalculatorFP\bin\Debug\net6.0\CalculatorFP.deps.json
+C:\Users\Deratex\source\repos\CalculatorFP\CalculatorFP\bin\Debug\net6.0\CalculatorFP.runtimeconfig.json
+C:\Users\Deratex\source\repos\CalculatorFP\CalculatorFP\bin\Debug\net6.0\CalculatorFP.dll
+C:\Users\Deratex\source\repos\CalculatorFP\CalculatorFP\bin\Debug\net6.0\CalculatorFP.pdb
+C:\Users\Deratex\source\repos\CalculatorFP\CalculatorFP\obj\Debug\net6.0\CalculatorFP.dll
+C:\Users\Deratex\source\repos\CalculatorFP\CalculatorFP\obj\Debug\net6.0\refint\CalculatorFP.dll
+C:\Users\Deratex\source\repos\CalculatorFP\CalculatorFP\obj\Debug\net6.0\CalculatorFP.pdb
+C:\Users\Deratex\source\repos\CalculatorFP\CalculatorFP\obj\Debug\net6.0\CalculatorFP.genruntimeconfig.cache
+C:\Users\Deratex\source\repos\CalculatorFP\CalculatorFP\obj\Debug\net6.0\ref\CalculatorFP.dll
